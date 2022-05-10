@@ -1,2 +1,3 @@
-# SAIF
-Academic System of IFRN. project developed for finalization of the discipline of Structured and Object Oriented Programming in ifrn, in 2018, under the guidance of Professor Higor Morais.
+# SAIF - Sistema Acadêmico
+Sistema Acadêmico. Projeto desenvolvido para finalização da disciplina de Programação Estruturada e Orientada a Objetos no IFRN.
+
